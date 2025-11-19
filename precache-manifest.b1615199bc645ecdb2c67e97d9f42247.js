@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog/Nikifor.pdf"
   },
   {
-    "revision": "e4f5881ebfc26d2731e2",
-    "url": "/css/app.f15ac949.css"
+    "revision": "e7aff64c4d81d4549fe4",
+    "url": "/css/app.cb30d29e.css"
   },
   {
     "revision": "9cdf99d357c65e644319",
@@ -292,12 +292,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/museum.df5d3955.jpg"
   },
   {
-    "revision": "b7915fe177fc8f58c3b6f4b3554eaa5a",
-    "url": "/img/muzeum-white-horizontal.b7915fe1.svg"
+    "revision": "c9475695510e2399b68a3317ca6f967d",
+    "url": "/img/muzeum-white-horizontal-zmns.c9475695.svg"
   },
   {
-    "revision": "b7d98f82a3f986b54a46e5e418b9fd5a",
-    "url": "/img/muzeum.b7d98f82.svg"
+    "revision": "51b9a88a402366ca40d8abccc4090a2c",
+    "url": "/img/muzeum-zmns.51b9a88a.svg"
   },
   {
     "revision": "35602d9a183bc8154c2d9b525f43436e",
@@ -436,12 +436,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/zoom.cdf2d672.svg"
   },
   {
-    "revision": "5be831db54ae5b8e77c06ff5003a7287",
+    "revision": "0d31376d31b8303afb147c4193079763",
     "url": "/index.html"
   },
   {
-    "revision": "e4f5881ebfc26d2731e2",
-    "url": "/js/app.853d28b6.js"
+    "revision": "e7aff64c4d81d4549fe4",
+    "url": "/js/app.262cc635.js"
   },
   {
     "revision": "9cdf99d357c65e644319",
