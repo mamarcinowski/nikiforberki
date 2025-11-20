@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog/Nikifor.pdf"
   },
   {
-    "revision": "e7aff64c4d81d4549fe4",
+    "revision": "cfedbd8189045ec3f6fd",
     "url": "/css/app.cb30d29e.css"
   },
   {
@@ -292,12 +292,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/museum.df5d3955.jpg"
   },
   {
-    "revision": "c9475695510e2399b68a3317ca6f967d",
-    "url": "/img/muzeum-white-horizontal-zmns.c9475695.svg"
+    "revision": "d002580ce994f1dcc0809533d06f1e05",
+    "url": "/img/muzeum-white-horizontal-zmns.d002580c.svg"
   },
   {
-    "revision": "51b9a88a402366ca40d8abccc4090a2c",
-    "url": "/img/muzeum-zmns.51b9a88a.svg"
+    "revision": "9e3a7cf0cd4925184b4313beeaa51b36",
+    "url": "/img/muzeum-zmns.9e3a7cf0.svg"
   },
   {
     "revision": "35602d9a183bc8154c2d9b525f43436e",
@@ -436,12 +436,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/zoom.cdf2d672.svg"
   },
   {
-    "revision": "0d31376d31b8303afb147c4193079763",
+    "revision": "daec4a7ab8bea86ab2ac48ffc39a1994",
     "url": "/index.html"
   },
   {
-    "revision": "e7aff64c4d81d4549fe4",
-    "url": "/js/app.262cc635.js"
+    "revision": "cfedbd8189045ec3f6fd",
+    "url": "/js/app.6c054a45.js"
   },
   {
     "revision": "9cdf99d357c65e644319",
