@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/catalog/Nikifor.pdf"
   },
   {
-    "revision": "cfedbd8189045ec3f6fd",
+    "revision": "263e9c3e59ef75e0d483",
     "url": "/css/app.cb30d29e.css"
   },
   {
@@ -436,12 +436,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/zoom.cdf2d672.svg"
   },
   {
-    "revision": "daec4a7ab8bea86ab2ac48ffc39a1994",
+    "revision": "70a562a1aef53f651617729fca0680db",
     "url": "/index.html"
   },
   {
-    "revision": "cfedbd8189045ec3f6fd",
-    "url": "/js/app.6c054a45.js"
+    "revision": "263e9c3e59ef75e0d483",
+    "url": "/js/app.0d35833b.js"
   },
   {
     "revision": "9cdf99d357c65e644319",

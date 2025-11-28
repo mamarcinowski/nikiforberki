@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3d52d2d3c8a60f587998b0ff462046e5.js"
+  "/precache-manifest.11d0e45c3d0864681bfb132249ab7ad6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nikifor"});
